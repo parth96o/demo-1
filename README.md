@@ -1,2 +1,2 @@
 # demo-1
-learning git and c++
+learning git and c++!
